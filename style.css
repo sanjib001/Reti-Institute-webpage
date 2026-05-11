@@ -88,7 +88,7 @@ img, svg { max-width: 100%; height: auto; display: block; }
 }
 
 .header__location svg {
-  width: 13px; height: 13px;
+  width: 18px; height: 20px;
   fill: var(--green-dark);
 }
 
